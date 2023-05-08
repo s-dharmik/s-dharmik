@@ -17,13 +17,13 @@
 
 - 📫 Want to reach me out? Here is my Email: [Click me](savaliyadharmik007@gmail.com)
 
-
 # Languages
 1. C and C++
 2. Java
 3. Python
 4. HTML
 5. JavaScript (React, Node)
+For more skills you can take a look at my LINKEDIN profile, by clicking [here](https://www.linkedin.com/in/ds-dharmik/).
 
 # Projects and Associated Tech-Stack
 | [Project name] | Tech-Stack and Tools |
